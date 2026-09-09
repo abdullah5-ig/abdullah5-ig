@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Abdullah Naqvi — Data Analyst" width="100%">
+<img src="https://raw.githubusercontent.com/abdullah5-ig/abdullah5-ig/main/assets/banner.png" alt="Abdullah Naqvi — Data Analyst" width="100%">
 
 <p align="center">
   <a href="https://abdullah-naqvi.vercel.app">
@@ -33,7 +33,7 @@ says, but whether it still holds up when you go looking for reasons it might not
 
 **A price model for 53,794 diamonds, accurate to 7%. But the finding beats the model.**
 
-<img src="assets/diamonds-paradox.png" alt="Better clarity looks cheaper until you control for size" width="100%">
+<img src="https://raw.githubusercontent.com/abdullah5-ig/abdullah5-ig/main/assets/diamonds-paradox.png" alt="Better clarity looks cheaper until you control for size" width="100%">
 
 In the raw data, **better quality diamonds look cheaper**. Flawless stones average
 $2,871 while the worst clarity grade averages $5,057. The cause is size — flawless
@@ -63,7 +63,7 @@ could not cheat.
 
 **Predicting who leaves is the easy half. Deciding who is worth calling is the hard half.**
 
-<img src="assets/churn-profit-curve.png" alt="Money made at each probability cutoff" width="100%">
+<img src="https://raw.githubusercontent.com/abdullah5-ig/abdullah5-ig/main/assets/churn-profit-curve.png" alt="Money made at each probability cutoff" width="100%">
 
 A retention offer costs money whether or not the customer was going to leave. So I
 worked out the point where calling someone pays off, from the offer cost and what a
@@ -73,7 +73,7 @@ customer is worth. That gives a cutoff of **27%**, not the default 50% — worth
 Testing every cutoff empirically gives 27%. The cost formula gives 26% on its own.
 Two different methods, almost the same answer.
 
-<img src="assets/churn-calibration.png" alt="The model was overconfident before calibration" width="60%">
+<img src="https://raw.githubusercontent.com/abdullah5-ig/abdullah5-ig/main/assets/churn-calibration.png" alt="The model was overconfident before calibration" width="60%">
 
 **The part I'd most want a reviewer to look at.** The model was overstating its
 confidence — reporting 37% risk where the real rate was 20%. Accuracy scores
