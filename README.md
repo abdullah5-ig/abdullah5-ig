@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abdullah5-ig/abdullah5-ig/main/assets/banner.png" alt="Abdullah Naqvi — Data Analyst" width="100%">
+<img src="https://raw.githubusercontent.com/abdullah5-ig/abdullah5-ig/main/assets/minecraft-banner.gif" width="100%" alt="Abdullah Naqvi — Data &amp; Fintech Analyst">
 
 <p align="center">
   <a href="https://abdullah-naqvi.vercel.app">
@@ -16,6 +16,10 @@ analysis is what I do. SQL, Python, Power BI and Excel — cleaning messy data,
 running the analysis, and building the charts and reports that make a finding
 useful to someone who has to act on it.
 
+I'm particularly interested in **fintech**: pricing, risk and customer economics.
+Most of what I have built comes down to the same question a financial analyst
+asks — what is this actually worth, and what should we do about it.
+
 I recently finished an internship as a Market Research Analyst at Vertex Digital
 Ventures, analysing US industry and buyer data to test whether an opportunity was
 real before anyone spent money on it.
@@ -31,7 +35,7 @@ says, but whether it still holds up when you go looking for reasons it might not
 
 ## [Diamond Prices — a correlation pointing the wrong way](https://github.com/abdullah5-ig/diamond-price-intelligence)
 
-**A price model for 53,794 diamonds, accurate to 7%. But the finding beats the model.**
+**A pricing model on 53,794 assets, accurate to 7%. But the finding beats the model.**
 
 <img src="https://raw.githubusercontent.com/abdullah5-ig/abdullah5-ig/main/assets/diamonds-paradox.png" alt="Better clarity looks cheaper until you control for size" width="100%">
 
@@ -61,7 +65,7 @@ could not cheat.
 
 ## [Telco Customer Churn — who leaves, and who to call](https://github.com/abdullah5-ig/telco-churn-retention-analytics)
 
-**Predicting who leaves is the easy half. Deciding who is worth calling is the hard half.**
+**Customer economics: predicting churn is the easy half, deciding who is worth spending on is the hard half.**
 
 <img src="https://raw.githubusercontent.com/abdullah5-ig/abdullah5-ig/main/assets/churn-profit-curve.png" alt="Money made at each probability cutoff" width="100%">
 
@@ -91,14 +95,33 @@ percentage points for no real reason.
 
 <br>
 
+## Portfolio Risk & Return Analysis
+
+**Which assets actually paid for the risk they carried?**
+
+<img src="https://raw.githubusercontent.com/abdullah5-ig/abdullah5-ig/main/assets/security-market-line.png" alt="Security Market Line: return plotted against beta for four listed companies" width="100%">
+
+Measured the risk and return of four listed companies — FFC, MARI, OGDC and FCCL
+— and built two portfolios from them. Calculated returns from historical price
+data, then measured how volatile each stock was and how much it moved with the
+wider market.
+
+Scored every asset on risk-adjusted return using the **Sharpe ratio, Treynor
+ratio and Jensen's Alpha**, then plotted them against the Security Market Line.
+The chart is the finding: **only FFC sits above the line**, meaning it was the
+one asset paying more return than its risk level called for. The other three sat
+below it.
+
+`Excel` · `CAPM` · `Beta & Volatility` · `Sharpe & Treynor` · `Jensen's Alpha`
+
+<br>
+
 ## Also on my [portfolio site](https://abdullah-naqvi.vercel.app)
 
 **Diabetes Risk Prediction** — Python pipeline on 20,000 health and survey records.
 96% accuracy overall, catching 65% of real cases with only 170 false alarms.
 
-**Portfolio Risk & Return Analysis** — Excel and CAPM study of four listed
-companies. Scored each on Sharpe, Treynor and Jensen's Alpha; only one plotted
-above the Security Market Line.
+All four projects, with the full write-ups, are on the site.
 
 <br>
 
@@ -157,6 +180,6 @@ limitations. A result without its weaknesses stated is not a finished result.
 ---
 
 <p align="center">
-  <sub>Open to opportunities in data analytics, business intelligence and applied AI.<br>
+  <sub>Open to opportunities in data analytics, business intelligence and fintech.<br>
   Islamabad, Pakistan</sub>
 </p>

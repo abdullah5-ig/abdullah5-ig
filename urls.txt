@@ -1,0 +1,11 @@
+# Alternative headers, if you ever want to swap the banner.
+# Put one of these in line 1 of README.md, inside <img src="...">
+
+BANNER
+https://capsule-render.vercel.app/api?type=waving&color=0:161c40,45:2a3aa0,100:12796e&height=210&section=header&text=Abdullah%20Naqvi&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Data%20%26%20Fintech%20Analyst%20%20%C2%B7%20%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI&descSize=18&descAlignY=52&animation=fadeIn
+
+TYPING_LIGHT
+https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=23&duration=3200&pause=800&color=2C3FC4&center=true&vCenter=true&width=820&height=54&lines=Turning%20messy%20data%20into%20decisions;Risk%20%26%20portfolio%20analytics%3A%20CAPM%2C%20Sharpe%2C%20Beta;Churn%2C%20pricing%20and%20prediction%20models;BS%20Business%20Data%20Analytics%20%40%20COMSATS
+
+TYPING_DARK
+https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=23&duration=3200&pause=800&color=7C93FF&center=true&vCenter=true&width=820&height=54&lines=Turning%20messy%20data%20into%20decisions;Risk%20%26%20portfolio%20analytics%3A%20CAPM%2C%20Sharpe%2C%20Beta;Churn%2C%20pricing%20and%20prediction%20models;BS%20Business%20Data%20Analytics%20%40%20COMSATS
